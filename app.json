@@ -20,6 +20,18 @@
   "permissions": [
     "homey:wireless:ble"
   ],
+  "tags": {
+    "en": [
+      "ctracing",
+      "kindelf",
+      "isearching"
+    ],
+    "nl": [
+      "ctracing",
+      "kindelf",
+      "isearching"
+    ]
+  },
   "brandColor": "#000000",
   "source": "https://github.com/smarthomesven/homey-itag",
   "bugs": {
